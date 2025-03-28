@@ -1,12 +1,12 @@
 # Experimental!
 ~ "git: github.com/amatgil/steal-gift" ~ AoCGet
 
-Input ← AoCGet 2024 2
+Input       ← AoCGet 2024 2
+ParsedInput ← ⍚⊜⋕⊜∩□⊸∩⌟≠@\n@ Input
 
-Parse! ← ⧻⊚⊜(^0⊜⋕⊸≠@ )⊸≠@\n
-Check  ← /×∈1_2_3×±⊸⊢≡/-◫2
+IsSafe ← ×⊃(/×≤₃⌵|≍⟜↻₁±)⧈-
 
-Input
+A ← ⧻⊚≡◇IsSafe
+B ← ⧻⊚≡◇(/∨≡IsSafe⧅₋₁<)
 
-A ← Parse!Check
-B ← Parse!(/↥≡Check⧅>-1⊸⧻)
+&p$"A: _\nB: _" ⊃A B ParsedInput
