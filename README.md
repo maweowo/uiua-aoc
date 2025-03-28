@@ -6,7 +6,7 @@ All files folow a pattern similar to this:
 ~ "git: github.com/amatgil/steal-gift" ~ AoCGet
 
 Input       ← AoCGet 2024 1
-ParsedInput ←  Input
+ParsedInput ← Input
 
 A ← 
 B ← 
