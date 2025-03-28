@@ -5,7 +5,7 @@ All files folow a pattern similar to this:
 ``` uiua
 ~ "git: github.com/amatgil/steal-gift" ~ AoCGet
 
-Input       ← AoCGet 2024 1
+Input       ← AoCGet Year Day
 ParsedInput ← Input
 
 A ← 
