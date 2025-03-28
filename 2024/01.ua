@@ -1,10 +1,9 @@
-# Experimental!
 ~ "git: github.com/amatgil/steal-gift" ~ AoCGet
 
-Input ← AoCGet 2024 1
+Input       ← AoCGet 2024 1
+ParsedInput ← ↯∞_2⊜⋕⊸≥@0 Input
 
-p ← ∩⋕⊜°$"_   _"⊸≠@\n
+A ← /+⌵-∩⍆≡°⊟
+B ← /+×°⊏⬚0×∩°⊚≡°⊟
 
-A ← /+⌵-∩⍆p
-
-/+⍆▽⊸∈ p Input
+&p$"A: _\nB: _" ⊃A B ParsedInput
