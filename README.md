@@ -1,4 +1,4 @@
-# my aoc solutions
+# maweo's aoc solutions
 
 All files folow a pattern similar to this:
 
