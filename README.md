@@ -1,9 +1,10 @@
 # maweo's aoc solutions
 
 with
-´´´ bash
+
+``` bash
 make.ua 2024 9
-´´´
+```
 
 you can create the file ``2024\09.ua`` with the following content:
 
