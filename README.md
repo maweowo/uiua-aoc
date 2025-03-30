@@ -15,6 +15,7 @@
 | 2024 |  9  |    5/10    | unfortunately very slow                                                                     |
 | 2024 | 10  |    2/10    | `path` may be one of the coolest modifiers ever also part2 being easier than 1 is funny     |
 | 2024 | 11  |    4/10    | surprisingly quick for no dictionaries                                                      |
+| 2024 | 12  |    3/10    | `⧈` corner counting is fun and 2d `⊜` is very convenient                                    |
 
 ## Solution Format
 
