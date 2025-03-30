@@ -11,6 +11,7 @@
 | 2024 |  5  |    5/10    | `⊢⊣↯2_∞` is funny for the middle value Stack mainp for part 2 was slightly annoying |
 | 2024 |  6  |    6/10    | path for loop detection is cool                                                     |
 | 2024 |  7  |    2/10    | very bruterforcy solution                                                           |
+| 2024 |  8  |    4/10    | `∊⇡` is a cool bounds check                                                         |
 
 ## Solution Format
 
