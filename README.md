@@ -12,6 +12,7 @@
 | 2024 |  6  |    6/10    | path for loop detection is cool                                                     |
 | 2024 |  7  |    2/10    | very bruterforcy solution                                                           |
 | 2024 |  8  |    4/10    | `∊⇡` is a cool bounds check                                                         |
+| 2024 |  9  |    5/10    | unfortunatly very slow                                                              |
 
 ## Solution Format
 
