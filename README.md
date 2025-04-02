@@ -19,7 +19,8 @@
 | 2024 | 13  |    4/10    | i like my implementation of Cramers rule for solving the linear systems                                 |
 | 2024 | 14  |    3/10    | The Part 2 task is very vague                                                                           |
 | 2024 | 15  |    7/10    | encountered many bugs and the solution is pretty convoluted especially for part 2 but `⍜⨬` is very cool |
-| 2023 | 16  |    3/10    | `path` is realy making these problems easy                                                              |
+| 2024 | 16  |    3/10    | `path` is realy making these problems easy                                                              |
+| 2024 | 18  |    5/10    | had some stupid bugs while implementing the binary search                                               |
 
 ## Solution Format
 
