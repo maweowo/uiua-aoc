@@ -22,6 +22,7 @@
 | 2024 | 16  |    3/10    | `path` is realy making these problems easy                                                              |
 | 2024 | 17  |    9/10    |                                                                                                         |
 | 2024 | 18  |    5/10    | had some stupid bugs while implementing the binary search                                               |
+| 2022 | 20  |    4/10    | there is propably a way smarter aproach but `⧅₂<` is the most direct                                    |
 
 ## Solution Format
 
