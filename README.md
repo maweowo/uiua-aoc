@@ -19,10 +19,11 @@
 | 2024 | 13  |    4/10    | i like my implementation of Cramers rule for solving the linear systems                                 |
 | 2024 | 14  |    3/10    | The Part 2 task is very vague                                                                           |
 | 2024 | 15  |    7/10    | encountered many bugs and the solution is pretty convoluted especially for part 2 but `⍜⨬` is very cool |
-| 2024 | 16  |    3/10    | `path` is realy making these problems easy                                                              |
+| 2024 | 16  |    3/10    | `path` is really making these problems easy                                                             |
 | 2024 | 17  |    9/10    |                                                                                                         |
 | 2024 | 18  |    5/10    | had some stupid bugs while implementing the binary search                                               |
-| 2022 | 20  |    4/10    | there is propably a way smarter aproach but `⧅₂<` is the most direct                                    |
+| 2024 | 20  |    4/10    | there is probably a way smarter approach but `⧅₂<` is the most direct                                   |
+| 2024 | 23  |    8/10    | really wish i could do `⍜⍜♭⊛`, `=₁₉◿₂₆` for checking stat with `@t` is funny                            |
 
 ## Solution Format
 
