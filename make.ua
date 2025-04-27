@@ -1,5 +1,5 @@
 &fwa⊃(
-  $"___.ua"⊙(Sep↙¯2⬚@0°↘₁)°□₂
+  $"___.ua"⊙(pathsep↙¯2⬚@0°↘₁)°□₂
 | /$"\n\nInput       ← AoCGet _ _\n" ⋕
   $ # Experimental!
   $ ~ "git: github.com/amatgil/steal-gift" ~ AoCGet
