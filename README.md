@@ -23,6 +23,7 @@
 | 2024 | 17  |    9/10    |                                                                                                         |
 | 2024 | 18  |    5/10    | had some stupid bugs while implementing the binary search                                               |
 | 2024 | 20  |    4/10    | there is probably a way smarter approach but `⧅₂<` is the most direct                                   |
+| 2024 | 22  |    4/10    | spend long on part 2 because I thought you buy after the sequence, `°⊥` for making "keys" is cool       |
 | 2024 | 23  |    8/10    | really wish i could do `⍜⍜♭⊛`, `=₁₉◿₂₆` for checking stat with `@t` is funny                            |
 
 ## Solution Format
