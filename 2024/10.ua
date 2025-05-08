@@ -4,7 +4,9 @@
 Input       ← AoCGet 2024 10
 ParsedInput ← ⊚⊸=₀⊜∘⊸≥₀-@0Input
 
-A ← /+≡⌟(⧻◴≡◇⊣path(▽=+₁⊃⊡(⤚⬚∞⊡+⌟A₂)|=9⊡))
-B ← /+≡⌟(⧻path(▽=+₁⊃⊡(⤚⬚∞⊡+⌟A₂)|=9⊡))
+Paths ← path(▽=+₁⊃⊡(⤚⬚∞⊡+⌟A₂)|=9⊡)
+
+A ← /+≡⌟(⧻◴≡◇⊣Paths)
+B ← /+≡⌟(⧻Paths)
 
 &p$"A: _\nB: _" ⊃A B ParsedInput
