@@ -1,12 +1,15 @@
 # Experimental!
 ~ "git: github.com/amatgil/steal-gift" ~ AoCGet
 
-Input       ← AoCGet 2024 9
-ParsedInput ← ×⊓¬+₁⊃◿₂÷₂⊚∵⋕ Input
+Do! ← /+×°⊏↥₀-₁ ^0 ×⊓¬+₁⊃◿₂÷₂⊚ -@0
 
-Sum ← /+×°⊏↥₀-₁
+A ← Do!(↙⧻⊚⊃¬⍜▽(↙⊓⧻⇌)⊃¬⤙▽⊸±)
+B ← Do!(∧(⍜▽⍜⇌⍆↥=1⦷⊚⊃/+:⊸⊃=⋅±)⇌◴⊸▽⊸±)
 
-A ← Sum↙⧻⊚⊃¬⍜▽(↙⊓⧻⇌)⊃¬⤙▽⊸±
-B ← Sum∧(⍜▽⍜⇌⍆↥=1⦷⊚⊃/+:⊸⊃=⋅±)⇌◴⊸▽⊸±
+&p$"A: _\nB: _" ⊃A B AoCGet 2024 9
 
-&p$"A: _\nB: _" ⊃A B ParsedInput
+┌─╴test
+  ⍤⤙≍ 1928 A $ 2333133121414131402
+
+  ⍤⤙≍ 2858 B $ 2333133121414131402
+└─╴

@@ -33,13 +33,42 @@ I made a small script to generate my solution files in a similar pattern. With `
 ```uiua
 ~ "git: github.com/amatgil/steal-gift" ~ AoCGet
 
-Input       ← AoCGet 2024 9
-ParsedInput ← Input
-
 A ←
 B ←
 
-&p$"A: _\nB: _" ⊃A B ParsedInput
+&p$"A: _\nB: _" ⊃A B AoCGet 2024 9
+
+┌─╴test
+└─╴
+```
+
+The test can be used to fill in the test cases from the Example Due to A and B often having a similar Start(parsing Numbers from a List) and a Similar End(summing Results) It is ogten Practical to make a `Do!` makro one can see this in 2024 day 1
+
+```uiua
+~ "git: github.com/amatgil/steal-gift" ~ AoCGet
+
+Do! ← /+ ^0 ≡°⊟↯∞_2⊜⋕⊸≥@0
+
+A ← Do!(⌵-∩⍆)
+B ← Do!(×°⊏⬚0×∩°⊚)
+
+&p$"A: _\nB: _" ⊃A B AoCGet 2024 1
+
+┌─╴test
+  ⍤⤙≍ 11 A $ 3   4
+           $ 4   3
+           $ 2   5
+           $ 1   3
+           $ 3   9
+           $ 3   3
+
+  ⍤⤙≍ 31 B $ 3   4
+           $ 4   3
+           $ 2   5
+           $ 1   3
+           $ 3   9
+           $ 3   3
+└─╴
 ```
 
 ## Thanks
