@@ -1,12 +1,15 @@
 # Experimental!
 ~ "git: github.com/amatgil/steal-gift" ~ AoCGet
 
-Input       ← AoCGet 2024 11
-ParsedInput ← :°▽⍆⊜⋕⊸≠@ Input
+Blink ← ⋅/+⍥(
+  ⊕⊓⊢/+⊸⊛∩/◇⊂⍚⍣(≡⊙∘⍜⊙°⋕⬚@a↯2_∞|↥₁×₂₀₂₄)
+) ⊙(:°▽⍆⊜⋕⊸≠@ )
 
-Blink ← ⊕⊓⊢/+⊸⊛∩/◇⊂⍚⍣(≡⊙∘⍜⊙°⋕⬚@a↯2_∞|↥₁×₂₀₂₄)
+A ← Blink 25
+B ← Blink 75
 
-A ← ⋅/+⍥₂₅Blink
-B ← ⋅/+⍥₇₅Blink
+&p$"A: _\nB: _" ⊃A B AoCGet 2024 11
 
-&p$"A: _\nB: _" ⊃A B ParsedInput
+┌─╴test
+  ⍤⤙≍ 55312 A $ 125 17
+└─╴
